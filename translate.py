@@ -1,0 +1,5 @@
+import gdal
+
+gdalwarp = 'gdalwarp {} {} -'
+
+
